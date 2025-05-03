@@ -1,0 +1,9 @@
+/build
+/sdkconfig
+/managed_components
+/.vscode
+/.espressif
+/partition_table
+/flash_args
+/bootloader
+/components/lwip/include/lwip/priv/memp_std.h
